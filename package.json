@@ -1,0 +1,15 @@
+{
+	"author": "oli-f <mail@oli-f.tk",
+	"name": "ddjc",
+	"version": "0.1.0",
+	"main": "main.js",
+	"repository" : {
+		"type": "git",
+		"url": "https://github.com/oli-f/node-ddjc"
+	},
+	"dependencies": {
+		"request": ">=2.36.0",
+		"cheerio": ">=0.17.0"
+	}
+}
+
